@@ -1,4 +1,5 @@
 # mediasoft-all-services
+```
 HTTP/1.1 200 OK
 Content-Type: application/json
 
@@ -14,3 +15,4 @@ Content-Type: application/json
     "email": "jane@example.com"
   }
 ]
+```
